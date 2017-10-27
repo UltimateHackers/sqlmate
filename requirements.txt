@@ -3,4 +3,3 @@ bs4
 HTMLparser
 argparse
 requests
-urlparse
